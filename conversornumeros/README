@@ -1,0 +1,4 @@
+Este programa sirve para convertir numero romanos a decimales y viceversa.
+Se compila normal con javac NumerosRomanos.java
+Se ejecuta son de la forma normal con java NumeroRomanos
+  y ira pidiendo unos pasos por pantalla.
